@@ -57,8 +57,6 @@ async function promptUser() {
     }
 }
 
-promptUser();
-
 // TODO: Create a function to write README file
 function writeToFile(fileName, data) {
     fs.writeFile(fileName, JSON.stringify(data, null, 2), (error) => {
@@ -72,6 +70,7 @@ function writeToFile(fileName, data) {
 
 // TODO: Create a function to initialize app
 function init() {
+    promptUser();
     const fileName = 'README.md';
     const readmeContent = generateMarkdown(data);
     writeToFile(fileName, readmeContent);
