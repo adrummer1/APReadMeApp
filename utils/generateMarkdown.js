@@ -32,15 +32,15 @@ function renderLicenseLink(license) {
 function renderLicenseSection(license) {
   if (license === 'MIT') {
     return `
-    This project is licensed under the [MIT License](https://opensource.org/license/mit).
+    This project is licensed under the ![MIT License](https://opensource.org/license/mit).
     `;
   } else if (license === 'GPLv3') {
     return `
-    This project is licensed under the [GPLv3 License](https://www.gnu.org/licenses/gpl-3.0).
+    This project is licensed under the ![GPLv3 License](https://www.gnu.org/licenses/gpl-3.0).
     `
   } else if (license === 'Apache 2.0') {
     return `
-    This project is licensed under the [Apache 2.0 License](https://opensource.org/license/apache-2-0/).
+    This project is licensed under the ![Apache 2.0 License](https://opensource.org/license/apache-2-0/).
     `;
   } else {
     return '';
