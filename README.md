@@ -1,6 +1,6 @@
 # README
 
-  [![License Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Table of Contents
   - [Description](#description)
@@ -26,7 +26,7 @@
   ## License
 
   
-    This project is licensed under the [!Apache 2.0 License](https://opensource.org/license/apache-2-0/).
+    This project is licensed under the '![MIT License](https://opensource.org/license/mit)'.
     
 
   ## Contributing

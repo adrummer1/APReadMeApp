@@ -32,7 +32,7 @@ function renderLicenseLink(license) {
 function renderLicenseSection(license) {
   if (license === 'MIT') {
     return `
-    This project is licensed under the [!MIT License](https://opensource.org/license/mit).
+    This project is licensed under the '![MIT License](https://opensource.org/license/mit)'.
     `;
   } else if (license === 'GPLv3') {
     return `
