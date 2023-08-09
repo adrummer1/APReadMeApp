@@ -1,4 +1,4 @@
-# My File
+# My file
 
   ## Table of Contents
   - [Description](#description)
@@ -11,15 +11,15 @@
 
   ## Description
 
-  This is My File
+  This is my file
 
   ## Installation
 
-  Click the link.
+  Steps 1234
 
   ## Usage
 
-  See above.
+  Instructions 1234
 
   ## License
 
@@ -27,12 +27,12 @@
 
   ## Contributing
 
-  Have a ball!
+  Go for it!
 
   ## Tests
 
-  Text 1
+  Tests 1234
 
   ## Questions
 
-  adrummer1 andrew@bluestemcreativeco.com
+  adrummer1

@@ -74,6 +74,9 @@ async function init() {
     let data = await promptUser();
     const fileName = 'README.md';
     const readmeContent = generateMarkdown(data);
+
+    const selectedLicense = 'MIT';
+    const licenseBadge = renderLicenseSection(selectedLicense);
     writeToFile(fileName, readmeContent);
 }
 
