@@ -17,7 +17,7 @@
 
   ## Installation
 
-  1. Fork the repository to your own github account using  the link below. 2. Copy the SSH Link in the newly forked repository. 3. Navigate to your local development environment and clone the forked repository and cd into it. 4. Open it in your coding  software (such as VS Code). To run the application enter the command `node index.jd` in your terminal.  
+  1. Fork the repository to your own github account using  the link below. 2. Copy the SSH Link in the newly forked repository. 3. Navigate to your local development environment and clone the forked repository and cd into it. 4. Open it in your coding  software (such as VS Code). To run the application enter the command `node index.js` in your terminal.  
 
   ## Usage
 
@@ -35,7 +35,7 @@
 
   ## Tests
 
-  (Link to video)
+  [Here is a link to a video tutorial!](https://drive.google.com/file/d/1ncDMmvd2cMtKFEMXCM0ah2ptlXzz8cS0/view)
 
   ## Questions
 
