@@ -42,9 +42,14 @@ const questions = [
         message: 'Provide any tests and examples on how to run them here:',
     },
     {
-        name: 'questions',
+        name: 'question1',
         type: 'input',
-        message: 'Provide your github username and email address with instructions on how to reach you with additional questions:',
+        message: 'What is your github username?',
+    },
+    {
+        name: 'question2',
+        type: 'input',
+        message: 'What is your email address?',
     },
 ]
 

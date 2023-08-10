@@ -88,7 +88,7 @@ function generateMarkdown(data) {
 
   ## Questions
 
-  ${data.questions}
+  My GitHub username <a href="https://github.com/${data.question1}" target="_blank">${data.question1}</a>. Feel free to contact me with any questions at ${data.question2}!
 
 `.trim();
 }

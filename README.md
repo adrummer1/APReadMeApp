@@ -13,7 +13,7 @@
 
   ## Description
 
-  My README
+  My readme
 
   ## Installation
 
@@ -26,7 +26,7 @@
   ## License
 
   
-    This project is licensed under the '![MIT License](https://opensource.org/license/mit)'.
+    This project is licensed under the MIT License.
     
 
   ## Contributing
@@ -39,4 +39,4 @@
 
   ## Questions
 
-  adrummer1
+  My GitHub username <a href="https://github.com/adrummer1" target="_blank">adrummer1</a>. Feel free to contact me with any questions at andrew@bluestemcreativeco.com!
